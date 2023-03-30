@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning the ins and outs of the field of data analytics, begining my quest to understand the world.
 - 💞️ I’m looking to collaborate on interesting Data related project to help understand the natural and social world that we live in.
 - 🏔️ Outside of this space I am interested in the outdoors, climbing, and evolution in all its forms. 
-- 📫 How to reach me **David.c.pk@gmail.com**
+- 📫 How to reach me **Davidjonchartrand@gmail.com**
 
 <!---
 DavidJohnChartrand/DavidJohnChartrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
