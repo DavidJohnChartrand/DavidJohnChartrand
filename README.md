@@ -19,7 +19,9 @@ Solving puzzles and learning have been a passion of mine for a long time.
 
 I also enjoy learning the Philosophy of Data, Science, and similar topics. 
 Some of the Books that have help me gain a better understand of the world:
+
 -📘[Science Fictions](https://www.amazon.com/Science-Fictions-Negligence-Undermine-Search/dp/1250222699) Stuart Richie
+
 -📙[Defending Science within reason](https://www.amazon.com/Defending-Science-Within-Reason-Scientism-Cynicism/dp/1591021170/ref=sr_1_1?crid=2P6EC014USSZ6&keywords=defending+science+within+reason&qid=1681159081&s=books&sprefix=defending+science+within+reason%2Cstripbooks-intl-ship%2C109&sr=1-1)Susan Haack
 
 ## 📫 How to reach me 
