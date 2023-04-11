@@ -18,7 +18,7 @@ Solving puzzles and learning have been a passion of mine for a long time.
 - 🏔️ Outside of this space I am interested in the outdoors, climbing, and evolution in all its forms. 
 
 I also enjoy learning the Philosophy of Data, Science, and similar topics. 
-Some of the Books that have help me gain a better understand of the world:
+Some of the Books 📚 that have help me gain a better understand of the world:
 
 - 📘 [Science Fictions](https://www.amazon.com/Science-Fictions-Negligence-Undermine-Search/dp/1250222699); by Stuart Richie
 
