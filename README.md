@@ -1,6 +1,6 @@
 # 👋 Hi there,
 ## 🧗‍♂️ About me 
-☕ I'm David Chartrand, a **science communicator**, and **Data Enthusiest** with a bachelors degree in Art & Science with minors in **pyschology** and **biology** and a **master's in Science Communications**. I am a recent graduate from the University of Toronto's Data Analytics bootcamp.
+☕ I'm David Chartrand, a recent graduate from the University of Toronto's Data Analytics bootcamp. I am a **science communicator**, and **Data Enthusiest** with a bachelors degree in Art & Science with minors in **pyschology** and **biology** and a **master's in Science Communications**.
 
 I enjoy learning new tech that allows me to build interesting things. Skills I'm proficient in are:
 - Python Programming
